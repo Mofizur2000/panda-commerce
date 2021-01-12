@@ -1,0 +1,25 @@
+.cg-img > img {
+    width: 100px;
+}
+.coustom-cg-3 {
+    background-color: rgb(0, 0, 255);
+}
+.coustom-cg-2 {
+    background-color: rgb(218, 112, 214);
+}
+.coustom-cg-1 {
+    background-color: rgb(255,165,0);
+}
+.coustom-cad-footer {
+    background-color: white;
+    border: 0;
+}
+.coustom-cad-border{
+    border: none;
+}
+.coustom-bg-caro{
+    background-color: #fceae8;
+}
+.coustom-bg-footer{
+    background-color: #fceae8;
+}
